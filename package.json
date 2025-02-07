@@ -25,6 +25,10 @@
     "sass": "^1.83.1",
     "styled-components": "^6.1.14"
   },
+
+  "engines": {
+  "node": ">=18"
+},
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",

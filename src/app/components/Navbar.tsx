@@ -42,7 +42,7 @@ const Navbar: React.FC = () => {
                 className="mr-5 hover:text-[#fb2e86] text-sm sm:text-base"> Pages </Link>
             </li>
             <li>
-                <Link href="/product"
+                <Link href="/products"
                 className="mr-5 hover:text-[#fb2e86] text-sm sm:text-base"> Products</Link>
             </li>
             <li>
